@@ -1,5 +1,5 @@
 # Forms-Js
-# 🎨 Form Styling with CSS & JS + Practice in Objects, Arrays & Conditions
+# Form Styling with CSS & JS + Practice in Objects, Arrays & Conditions
 
 This project demonstrates:
  A simple HTML **form** styled with CSS and enhanced with JavaScript.
